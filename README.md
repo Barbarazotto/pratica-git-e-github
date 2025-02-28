@@ -20,6 +20,6 @@ git clone <url_repositorio_remoto>
   3. Fazendo o commit
 
   ```bash
-  git commit -m "Criando um Commit"
+  git commit -m "Mensagem"
   ``` 
   **Atenção!** Tudo commit deve ter uma descrição (Obrigatório)
