@@ -22,4 +22,4 @@ git clone <url_repositorio_remoto>
   ```bash
   git commit -m "Criando um commit"
   ``` 
-  **Atenção!** Todo commit deve ter uma descrição (Obrigatório)
+  **Atenção!** Tudo commit deve ter uma descrição (Obrigatório)
