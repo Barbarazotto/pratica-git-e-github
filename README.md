@@ -16,3 +16,11 @@ git clone <url_repositorio_remoto>
  ```bash
  git add .
  ```
+
+  3. Fazendo o commit
+
+  ```bash
+  git commit -m "Mensagem"
+  ``` 
+  **Atenção!** Tudo commit deve ter uma descrição (Obrigatório)
+  
